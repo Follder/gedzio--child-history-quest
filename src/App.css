@@ -1,3 +1,26 @@
+@import url("https://fonts.cdnfonts.com/css/aniron");
+
+@font-face {
+  font-family: 'Avanti';
+  src: url('./assets/fonts/AvantiBold.eot');
+  src: url('./assets/fonts/AvantiBold.eot?#iefix') format('embedded-opentype'),
+      url('./assets/fonts/AvantiBold.woff2') format('woff2'),
+      url('./assets/fonts/AvantiBold.woff') format('woff'),
+      url('./assets/fonts/AvantiBold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
 .App {
   text-align: center;
 }
