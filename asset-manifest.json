@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gedzio--child-history-quest/static/css/main.742cfd44.css",
+    "main.css": "/gedzio--child-history-quest/static/css/main.03f89a7e.css",
     "main.js": "/gedzio--child-history-quest/static/js/main.c5b6aeda.js",
     "static/js/453.b6f8d195.chunk.js": "/gedzio--child-history-quest/static/js/453.b6f8d195.chunk.js",
     "static/media/paper.png": "/gedzio--child-history-quest/static/media/paper.8e7244431defae29d997.png",
@@ -10,12 +10,12 @@
     "static/media/AvantiBold.woff": "/gedzio--child-history-quest/static/media/AvantiBold.e8c012904ceb6d3ba308.woff",
     "static/media/AvantiBold.woff2": "/gedzio--child-history-quest/static/media/AvantiBold.c4cb381cca3fe833b31a.woff2",
     "index.html": "/gedzio--child-history-quest/index.html",
-    "main.742cfd44.css.map": "/gedzio--child-history-quest/static/css/main.742cfd44.css.map",
+    "main.03f89a7e.css.map": "/gedzio--child-history-quest/static/css/main.03f89a7e.css.map",
     "main.c5b6aeda.js.map": "/gedzio--child-history-quest/static/js/main.c5b6aeda.js.map",
     "453.b6f8d195.chunk.js.map": "/gedzio--child-history-quest/static/js/453.b6f8d195.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.742cfd44.css",
+    "static/css/main.03f89a7e.css",
     "static/js/main.c5b6aeda.js"
   ]
 }
