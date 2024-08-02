@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/gedzio--child-history-quest/static/css/main.742cfd44.css",
+    "main.js": "/gedzio--child-history-quest/static/js/main.c5b6aeda.js",
+    "static/js/453.b6f8d195.chunk.js": "/gedzio--child-history-quest/static/js/453.b6f8d195.chunk.js",
+    "static/media/paper.png": "/gedzio--child-history-quest/static/media/paper.8e7244431defae29d997.png",
+    "static/media/AvantiBold.eot": "/gedzio--child-history-quest/static/media/AvantiBold.18e05c440fdc44616dbb.eot",
+    "static/media/AvantiBold.ttf": "/gedzio--child-history-quest/static/media/AvantiBold.5bc27f765580762d7076.ttf",
+    "static/media/button.png": "/gedzio--child-history-quest/static/media/button.311329dd296e53c3390e.png",
+    "static/media/AvantiBold.woff": "/gedzio--child-history-quest/static/media/AvantiBold.e8c012904ceb6d3ba308.woff",
+    "static/media/AvantiBold.woff2": "/gedzio--child-history-quest/static/media/AvantiBold.c4cb381cca3fe833b31a.woff2",
+    "index.html": "/gedzio--child-history-quest/index.html",
+    "main.742cfd44.css.map": "/gedzio--child-history-quest/static/css/main.742cfd44.css.map",
+    "main.c5b6aeda.js.map": "/gedzio--child-history-quest/static/js/main.c5b6aeda.js.map",
+    "453.b6f8d195.chunk.js.map": "/gedzio--child-history-quest/static/js/453.b6f8d195.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.742cfd44.css",
+    "static/js/main.c5b6aeda.js"
+  ]
+}
