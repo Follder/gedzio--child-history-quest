@@ -6,7 +6,7 @@ For Demo this project you can use [DEMO LINK](https://follder.github.io/gedzio--
 
 ## Project description
 
-This commercial project was created as a library with various characters in Gezo Legend Park. This helped to hold a children's quest and introduce the brand to others.
+This commercial project was created as a library with various characters in Gedzio Legend Park. This helped to hold a children's quest and introduce the brand to others.
 
 ## Technologies Used
 
