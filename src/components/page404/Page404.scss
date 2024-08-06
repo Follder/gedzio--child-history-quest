@@ -1,0 +1,36 @@
+.nopage {
+  height: 100vh;
+  padding-top: 50px;
+  padding-bottom: 100px;
+
+  background-size: cover;
+  overflow: hidden;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  &__header {
+    background: radial-gradient(150px, rgba(255, 255, 255, 0.4), transparent);
+    // background: radial-gradient(100px, rgba(8, 24, 57, 0.4), transparent);
+    border-radius: 50%;
+    color: rgb(41, 64, 109);
+
+    padding-inline: 15px;
+  }
+
+  &__title {
+    line-height: 120%;
+    // color: rgba(8, 24, 57, 1);
+    // color: rgb(41, 69, 124);
+  }
+
+  &__number {
+    font-family: 'Co Headline', sans-serif;
+    font-size: 5rem;
+    font-weight: 600;
+    // color: rgb(30, 78, 182);
+    line-height: 90%;
+
+  }
+}

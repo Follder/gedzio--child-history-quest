@@ -1,4 +1,6 @@
 @import url("https://fonts.cdnfonts.com/css/aniron");
+@import url('https://fonts.cdnfonts.com/css/co-headline');
+@import url('https://fonts.cdnfonts.com/css/stampatello-faceto');
 
 @font-face {
   font-family: 'Avanti';
@@ -19,6 +21,10 @@
 body {
   margin: 0;
   padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: '', sans-serif;
 }
 
 .App {

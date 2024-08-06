@@ -1,0 +1,23 @@
+.home {
+  height: 100vh;
+  padding-top: 50px;
+  padding-bottom: 100px;
+
+  background-size: cover;
+  overflow: hidden;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  &__header {
+    background: radial-gradient(200px, rgba(8, 24, 57, 0.8), transparent);
+    border-radius: 50%;
+
+    padding-inline: 15px;
+
+    img {
+      max-width: 320px;
+    }
+  }
+}

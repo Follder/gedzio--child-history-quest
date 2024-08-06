@@ -33,17 +33,14 @@
       font-weight: 600;
 
       cursor: pointer;
-      
     }
   }
 
   &__header {
-    font-family: "Aniron", sans-serif;
-
-    background: radial-gradient(100px, rgba(8, 24, 57, .8), transparent);
+    background: radial-gradient(100px, rgba(8, 24, 57, 0.8), transparent);
     border-radius: 50%;
 
-    padding-inline: 15px;
+    padding-inline: 30px;
   }
 
   &__title {
@@ -51,5 +48,9 @@
     line-height: 150%;
 
     padding-block: 15px;
+
+    font-size: 2.2rem;
+    font-weight: 500;
+    text-shadow: 3px 3px 10px rgba(0, 0, 0, 1);
   }
 }
